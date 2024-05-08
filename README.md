@@ -1,2 +1,2 @@
 # Text-Encoding
-Project exploring encoding text
+exploring ciphers
